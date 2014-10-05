@@ -18,6 +18,10 @@ header img.logo{
 	height: 120px;
 }
 
+#logo-container{
+	background-color: white;
+}
+
 .center-aligned{
 	text-align: center;
 	margin: 0 auto;
