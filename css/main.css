@@ -4,7 +4,22 @@
    Author's custom styles
    ========================================================================== */
 
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	margin: 0;
+	padding: 0;
+}
 
+header #logo-container{
+	background-color: white;
+}
+
+header img.logo{
+	height: 120px;
+}
 
 
 
