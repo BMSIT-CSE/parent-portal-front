@@ -4,16 +4,6 @@
    Author's custom styles
    ========================================================================== */
 
-body{
-	margin: 0;
-	padding: 0;
-}
-
-div{
-	padding: 0;
-	margin: 0;
-}
-
 header img.logo{
 	height: 120px;
 }
