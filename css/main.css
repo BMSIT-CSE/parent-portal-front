@@ -17,6 +17,61 @@ header img.logo{
 	margin: 0 auto;
 }
 
+/*============ Calendar of events ============*/
+
+.event_date_container{
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.date_container{
+    width: 35%;
+    text-align: center;
+    background-color: rgb(55,120,168);
+    float:left;
+    height: 100px;
+}
+
+.date_container p.month{
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.date_container p.date{
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.date_container p.date_range{
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.event_container{
+    width: 65%;
+    border: 1px solid rgb(55,120,168);55,120,168eft: 0px;
+    float:left;
+    height: 100px;
+}
+
+.event_container p{
+    font-size: 13px;
+}
+
+.event{
+    padding: 5px 2px 0px 5px;
+}
+
+.event_container p.time, p.venue{
+    font-size: 10px;
+    line-height: 12px;
+    text-align: right;
+    padding-right: 2px;
+    font-style: italic;
+}
+
 
 
 
